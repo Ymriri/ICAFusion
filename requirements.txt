@@ -1,5 +1,7 @@
 # pip install -r requirements.txt
-
+requests
+einops
+timm
 # base ----------------------------------------
 matplotlib>=3.2.2
 numpy>=1.18.5
